@@ -1,0 +1,125 @@
+Script started at 2023-06-30 19:48:13
+/dev/disk/by-id/aaaaz0_300623 --- 2023-06-30 19:48:13 ---
+/dev/disk/by-id/aaaaz0_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/boot/aaaaz1_300623 --- 2023-06-30 19:48:13 ---
+/boot/aaaaz1_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/etc/fwupd/aaaaz2_300623 --- 2023-06-30 19:48:13 ---
+/etc/fwupd/aaaaz2_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/afs/aaaaz11_300623/aaaaz21_300623/aaaaz3_300623 --- 2023-06-30 19:48:13 ---
+/afs/aaaaz11_300623/aaaaz21_300623/aaaaz3_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/run/ostree/aaaaz4_300623 --- 2023-06-30 19:48:13 ---
+/run/ostree/aaaaz4_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/opt/aaaaz46_300623/aaaaz5_300623 --- 2023-06-30 19:48:13 ---
+/opt/aaaaz46_300623/aaaaz5_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/etc/statetab.d/aaaaz6_300623 --- 2023-06-30 19:48:13 ---
+/etc/statetab.d/aaaaz6_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/mnt/aaaaz8_300623 --- 2023-06-30 19:48:13 ---
+/mnt/aaaaz8_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/home/aaaaz9_300623 --- 2023-06-30 19:48:13 ---
+/home/aaaaz9_300623/aaaaz0_300623.az --- 2023-06-30 19:48:13 --- 3Mb Mb
+/run/user/aaaaz10_300623 --- 2023-06-30 19:48:14 ---
+/run/user/aaaaz10_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/tmp/pyright-134068-R2GP9kYYjMm0/aaaaz11_300623 --- 2023-06-30 19:48:14 ---
+/tmp/pyright-134068-R2GP9kYYjMm0/aaaaz11_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/home/aaaaz12_300623 --- 2023-06-30 19:48:14 ---
+/home/aaaaz12_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/dev/input/by-id/aaaaz13_300623 --- 2023-06-30 19:48:14 ---
+/dev/input/by-id/aaaaz13_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/run/tpm2-tss/aaaaz14_300623 --- 2023-06-30 19:48:14 ---
+/run/tpm2-tss/aaaaz14_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/root/aaaaz16_300623 --- 2023-06-30 19:48:14 ---
+/root/aaaaz16_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/data/aaaaz36_300623/aaaaz17_300623 --- 2023-06-30 19:48:14 ---
+/data/aaaaz36_300623/aaaaz17_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/lib64/ntfs-3g/aaaaz18_300623 --- 2023-06-30 19:48:14 ---
+/lib64/ntfs-3g/aaaaz18_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/data/aaaaz36_300623/aaaaz19_300623 --- 2023-06-30 19:48:14 ---
+/data/aaaaz36_300623/aaaaz19_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/run/host/home/aaaaz12_300623/aaaaz20_300623 --- 2023-06-30 19:48:14 ---
+/run/host/home/aaaaz12_300623/aaaaz20_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-rtkit-daemon.service-EX6667/aaaaz13_300623/aaaaz21_300623 --- 2023-06-30 19:48:14 ---
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-rtkit-daemon.service-EX6667/aaaaz13_300623/aaaaz21_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/aaaaz1_300623/aaaaz38_300623/aaaaz23_300623 --- 2023-06-30 19:48:14 ---
+/aaaaz1_300623/aaaaz38_300623/aaaaz23_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/snap/core20/aaaaz25_300623 --- 2023-06-30 19:48:14 ---
+/snap/core20/aaaaz25_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/opt/aaaaz20_300623/aaaaz27_300623 --- 2023-06-30 19:48:14 ---
+/opt/aaaaz20_300623/aaaaz27_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/afs/aaaaz11_300623/aaaaz21_300623/aaaaz28_300623 --- 2023-06-30 19:48:14 ---
+/afs/aaaaz11_300623/aaaaz21_300623/aaaaz28_300623/aaaaz0_300623.az --- 2023-06-30 19:48:14 --- 3Mb Mb
+/etc/mdevctl.d/aaaaz29_300623 --- 2023-06-30 19:48:14 ---
+/etc/mdevctl.d/aaaaz29_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-rtkit-daemon.service-EX6667/aaaaz30_300623 --- 2023-06-30 19:48:15 ---
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-rtkit-daemon.service-EX6667/aaaaz30_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-ModemManager.service-OTStls/aaaaz31_300623 --- 2023-06-30 19:48:15 ---
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-ModemManager.service-OTStls/aaaaz31_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/usr/lib/kde4/aaaaz32_300623 --- 2023-06-30 19:48:15 ---
+/usr/lib/kde4/aaaaz32_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/aaaaz33_300623 --- 2023-06-30 19:48:15 ---
+/aaaaz33_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/media/aaaaz10_300623/aaaaz33_300623/aaaaz34_300623 --- 2023-06-30 19:48:15 ---
+/media/aaaaz10_300623/aaaaz33_300623/aaaaz34_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/aaaaz33_300623/aaaaz35_300623 --- 2023-06-30 19:48:15 ---
+/aaaaz33_300623/aaaaz35_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/media/aaaaz10_300623/aaaaz34_300623/aaaaz36_300623 --- 2023-06-30 19:48:15 ---
+/media/aaaaz10_300623/aaaaz34_300623/aaaaz36_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/lost+found/aaaaz37_300623 --- 2023-06-30 19:48:15 ---
+/lost+found/aaaaz37_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/etc/debuginfod/aaaaz38_300623 --- 2023-06-30 19:48:15 ---
+/etc/debuginfod/aaaaz38_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/opt/containerd/aaaaz39_300623 --- 2023-06-30 19:48:15 ---
+/opt/containerd/aaaaz39_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/srv/aaaaz2_300623/aaaaz40_300623 --- 2023-06-30 19:48:15 ---
+/srv/aaaaz2_300623/aaaaz40_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/run/motd.d/aaaaz42_300623 --- 2023-06-30 19:48:15 ---
+/run/motd.d/aaaaz42_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/data/aaaaz36_300623/aaaaz44_300623 --- 2023-06-30 19:48:15 ---
+/data/aaaaz36_300623/aaaaz44_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/aaaaz86_300623/aaaaz45_300623 --- 2023-06-30 19:48:15 ---
+/aaaaz86_300623/aaaaz45_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/etc/rpm/aaaaz47_300623 --- 2023-06-30 19:48:15 ---
+/etc/rpm/aaaaz47_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/data/aaaaz48_300623 --- 2023-06-30 19:48:15 ---
+/data/aaaaz48_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/usr/libexec/kde4/aaaaz49_300623 --- 2023-06-30 19:48:15 ---
+/usr/libexec/kde4/aaaaz49_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/aaaaz33_300623/aaaaz50_300623 --- 2023-06-30 19:48:15 ---
+/aaaaz33_300623/aaaaz50_300623/aaaaz0_300623.az --- 2023-06-30 19:48:15 --- 3Mb Mb
+/boot/loader/aaaaz51_300623 --- 2023-06-30 19:48:15 ---
+/boot/loader/aaaaz51_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/dev/dma_heap/aaaaz52_300623 --- 2023-06-30 19:48:16 ---
+/dev/dma_heap/aaaaz52_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/tmp/pyright-134068-gnw2jpXuJ6Ae/aaaaz53_300623 --- 2023-06-30 19:48:16 ---
+/tmp/pyright-134068-gnw2jpXuJ6Ae/aaaaz53_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/data/aaaaz36_300623/aaaaz17_300623/aaaaz54_300623 --- 2023-06-30 19:48:16 ---
+/data/aaaaz36_300623/aaaaz17_300623/aaaaz54_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/etc/gconf/gconf.xml.system/aaaaz55_300623 --- 2023-06-30 19:48:16 ---
+/etc/gconf/gconf.xml.system/aaaaz55_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/media/aaaaz17_300623/aaaaz56_300623 --- 2023-06-30 19:48:16 ---
+/media/aaaaz17_300623/aaaaz56_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/aaaaz33_300623/aaaaz57_300623 --- 2023-06-30 19:48:16 ---
+/aaaaz33_300623/aaaaz57_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-fprintd.service-81dcDk/aaaaz58_300623 --- 2023-06-30 19:48:16 ---
+/tmp/systemd-private-fd6a0c94019843dbac6f8b04041ee112-fprintd.service-81dcDk/aaaaz58_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/run/libvirt/aaaaz59_300623 --- 2023-06-30 19:48:16 ---
+/run/libvirt/aaaaz59_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/aaaaz33_300623/aaaaz35_300623/aaaaz60_300623 --- 2023-06-30 19:48:16 ---
+/aaaaz33_300623/aaaaz35_300623/aaaaz60_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/lib64/fwupd-plugins-7/aaaaz61_300623 --- 2023-06-30 19:48:16 ---
+/lib64/fwupd-plugins-7/aaaaz61_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/run/criu/aaaaz62_300623 --- 2023-06-30 19:48:16 ---
+/run/criu/aaaaz62_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/usr/tmp/dnf-isrealpe-ipkgf6r0/aaaaz64_300623 --- 2023-06-30 19:48:16 ---
+/usr/tmp/dnf-isrealpe-ipkgf6r0/aaaaz64_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/root/aaaaz8_300623/aaaaz65_300623 --- 2023-06-30 19:48:16 ---
+/root/aaaaz8_300623/aaaaz65_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/etc/xdg/aaaaz66_300623 --- 2023-06-30 19:48:16 ---
+/etc/xdg/aaaaz66_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/aaaaz86_300623/aaaaz67_300623 --- 2023-06-30 19:48:16 ---
+/aaaaz86_300623/aaaaz67_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+/boot/aaaaz47_300623/aaaaz68_300623 --- 2023-06-30 19:48:16 ---
+/usr/lib/slack/locales/aaaaz69_300623 --- 2023-06-30 19:48:16 ---
+/usr/lib/slack/locales/aaaaz69_300623/aaaaz0_300623.az --- 2023-06-30 19:48:16 --- 3Mb Mb
+Script finished at 2023-06-30 19:48:16
+Script execution time (in seconds) = 3.3
+
